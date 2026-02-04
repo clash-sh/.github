@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="demos/logo.png" alt="Clash Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/clash-sh/clash/main/demos/logo.png" alt="Clash Logo" width="120"/>
 </p>
 
 <h1 align="center">Clash</h1>
