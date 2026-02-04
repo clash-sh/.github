@@ -47,14 +47,6 @@ clash watch
 clash status --json
 ```
 
-## Features
-
-✅ Real-time conflict detection across all worktrees
-✅ Beautiful conflict matrix visualization
-✅ JSON output for CI/CD and AI agents
-✅ 100% read-only (never modifies your repository)
-✅ Fast: Status checks < 2 seconds
-
 ## Learn More
 
 Check out the [full documentation](https://github.com/clash-sh/clash) to get started!
